@@ -21,7 +21,7 @@ const user = {
   githubName: "amineMas",
   linkedin: "https://www.linkedin.com/in/aminemastouri/",
   avatar:
-    "https://scotch-res.cloudinary.com/image/upload/v1556479698/xRZsnhr0_400x400_cpyg2t.png"
+    "https://i.picsum.photos/id/1/5616/3744.jpg"
 };
 
 /**
